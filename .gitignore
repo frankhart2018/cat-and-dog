@@ -3,5 +3,4 @@ __pycache__
 .DS_Store
 dataset/
 static/vectors
-static/models/cat-dog-model.pth
 cat-and-dog.ipynb
